@@ -34,4 +34,10 @@ public class Limo extends Vehicle{
     public boolean getSunRoof() {
         return this.sunRoof;
     }
+
+    @Override
+    public double getPricePerDay() {
+        return super.getPricePerDay() * 1.5;
+        // ^ 150% of the price per day
+    }
 }

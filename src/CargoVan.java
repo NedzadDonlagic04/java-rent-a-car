@@ -14,4 +14,10 @@ public class CargoVan extends Van {
     public double getMaxLoad() {
         return this.maxLoad;
     }
+
+    @Override
+    public double getPricePerDay() {
+       return super.getPricePerDay() * 1.1;
+       // ^ 110% of the price per day
+    }
 }

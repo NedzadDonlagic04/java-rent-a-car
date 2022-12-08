@@ -14,4 +14,10 @@ public class PassengerVan extends Van {
     public int getNoOfPassenger() {
         return this.noOfPassenger;
     }
+
+    @Override
+    public double getPricePerDay() {
+        return super.getPricePerDay() * 0.8;
+        // ^ 80% of the price per day
+    }
 }
