@@ -1,12 +1,3 @@
-// Underneath is the description of the practice problem in Bosnian
-/*
-Modeliramo potrebne klase i funkcionalnost za Rent-a-car kucu. Kompanije iznajmljuje vozila iz
-sljedecih kategorija: automobili, kombi vozila i limuzine. Napravite klasu Vehicle koja opisuje
-neko vozilo. Klasa ima sljedece privatne atribute: regNo (String), model (String), year(int) i
-price (double, oznacava cijenu unajmljivanja vozila po satu). Dodajte klasi konstruktor koji
-prima kao parametre sve vrijednosti za atribute. Napravite get i set metode za svaki atribut,
-kao i metodu toString.
- */
 public class Vehicle {
     private String regNo;
     private String model;
