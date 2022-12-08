@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8ca10fd-20fe-4d91-b4d7-d021a309223d" name="Changes" comment="Updated workspace xml">
-      <change afterPath="$PROJECT_DIR$/src/PassengerVan.java" afterDir="false" />
+    <list default="true" id="d8ca10fd-20fe-4d91-b4d7-d021a309223d" name="Changes" comment="Added README">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CargoVan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CargoVan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Limo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Limo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PassengerVan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PassengerVan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +34,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -149,7 +154,56 @@
       <option name="project" value="LOCAL" />
       <updated>1670506192761</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Finished PassengerVan class">
+      <created>1670506541329</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1670506541329</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Implemented PassengerVan class">
+      <created>1670506547830</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1670506547830</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Updated workspace xml">
+      <created>1670506557577</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1670506557577</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Finished CargoVan class">
+      <created>1670506686242</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1670506686242</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Implemented CargoVan class">
+      <created>1670506692953</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1670506692953</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Removed comments which describe how to make the class&#10;They are now inside the README">
+      <created>1670507707683</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1670507707683</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added README">
+      <created>1670507713635</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1670507713635</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,7 +229,13 @@
     <MESSAGE value="Implemented Van class" />
     <MESSAGE value="Finished Limo class" />
     <MESSAGE value="Implemented Limo class" />
+    <MESSAGE value="Finished PassengerVan class" />
+    <MESSAGE value="Implemented PassengerVan class" />
     <MESSAGE value="Updated workspace xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated workspace xml" />
+    <MESSAGE value="Finished CargoVan class" />
+    <MESSAGE value="Implemented CargoVan class" />
+    <MESSAGE value="Removed comments which describe how to make the class&#10;They are now inside the README" />
+    <MESSAGE value="Added README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added README" />
   </component>
 </project>
