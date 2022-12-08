@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8ca10fd-20fe-4d91-b4d7-d021a309223d" name="Changes" comment="Added xml files">
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+    <list default="true" id="d8ca10fd-20fe-4d91-b4d7-d021a309223d" name="Changes" comment="workspace xml update">
+      <change afterPath="$PROJECT_DIR$/src/Van.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +86,28 @@
       <option name="project" value="LOCAL" />
       <updated>1670504694859</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finished making the Car class">
+      <created>1670505420496</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670505420496</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Implemented the Car class">
+      <created>1670505428490</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670505428490</updated>
+    </task>
+    <task id="LOCAL-00007" summary="workspace xml update">
+      <created>1670505439832</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670505439832</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +126,9 @@
     <MESSAGE value="Finished Vehicle class" />
     <MESSAGE value="Implemented Vehicle class" />
     <MESSAGE value="Added xml files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added xml files" />
+    <MESSAGE value="Finished making the Car class" />
+    <MESSAGE value="Implemented the Car class" />
+    <MESSAGE value="workspace xml update" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace xml update" />
   </component>
 </project>
